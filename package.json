@@ -3,7 +3,7 @@
   "description": "",
   "dependencies": {
     "apollo-datasource-rest": "0.9.3",
-    "apollo-server": "2.9.7",
+    "apollo-server": "2.14.2",
     "fetch-mock": "9.10.3",
     "graphql": "14.5.8",
     "graphql-tag": "^2.10.1",
